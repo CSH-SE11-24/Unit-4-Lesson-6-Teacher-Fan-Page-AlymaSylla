@@ -1,0 +1,22 @@
+html {
+  height: 100%;
+  width: 100%;
+}
+body{
+  background-color: deeppink;
+  font-family: 'Courier New', Courier, monospace;
+}
+.navbar{
+  text-align:center;
+  background-color:pink;
+}
+h1{
+  color:black;
+}
+.a{
+  color:black;
+}
+.Roma{
+  width:80px;
+  text-align: center;
+}
